@@ -1,6 +1,6 @@
-# School Performance Analysis
+# Social Determinants of School Performance 
 
-this project uses Python Pandas to analyze district-wide standarized
+This project uses Python Pandas to analyze district-wide standarized
 school test results to showcase trends in school performance.
 
 First the analysis is done at the district level and summarizes: 
